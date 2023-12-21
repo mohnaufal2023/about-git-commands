@@ -2,3 +2,5 @@ mooafit resolusi
 - konsisten belajar git
 - belajar github
 - belajar html css
+- membuat cv 3d
+- belajar js
