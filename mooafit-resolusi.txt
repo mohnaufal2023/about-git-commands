@@ -1,0 +1,4 @@
+mooafit resolusi
+- konsisten belajar git
+- belajar github
+- belajar html css
