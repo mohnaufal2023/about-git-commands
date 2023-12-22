@@ -3,3 +3,12 @@ mooafit resolusi
 - belajar github
 - membuat cv 3d
 - belajar js
+
+git code
+- pwd
+- cd
+- git add .
+- git status
+- git log
+- git log -- nama file
+
