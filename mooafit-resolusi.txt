@@ -3,6 +3,7 @@ mooafit resolusi
 - belajar github
 - membuat cv 3d
 - belajar js
+-main emel
 
 git code
 - pwd
