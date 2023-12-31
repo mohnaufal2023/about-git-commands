@@ -6,10 +6,17 @@ mooafit resolusi
 -main emel
 
 git code
-- pwd
-- cd
-- git add .
-- git status
-- git log
+- pwd = posisi kita
+- cd = masuk 
+- git add . megkonfirmasi
+- git status = untuk melihat status file yg sudah di buat
+- git log = melihat history commit
 - git log -- nama file
+
+part 6
+- graph = melihat cabang
+- git commmit -m "pesan anda"= mengkomit dan kasih pesan
+-git branch = di posisi mana pointer kita
+-  git merge staf = marge file branch ke master
+-  git branch -d staf = menghapus branch
 
