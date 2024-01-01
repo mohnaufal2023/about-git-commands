@@ -15,8 +15,10 @@ git code
 
 part 6
 - graph = melihat cabang
-- git commmit -m "pesan anda"= mengkomit dan kasih pesan
+- git commmit -am "pesan anda"= mengkomit dan kasih pesan
 -git branch = di posisi mana pointer kita
 -  git merge staf = marge file branch ke master
 -  git branch -d staf = menghapus branch
+- git checkout "nama branch" = pindah dari anatar branch
+- Q = keluar
 
