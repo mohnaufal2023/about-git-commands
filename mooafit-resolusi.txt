@@ -18,7 +18,7 @@ part 6
 - git commmit -am "pesan anda"= mengkomit dan kasih pesan
 -git branch = di posisi mana pointer kita
 -  git merge (nama branch) = marge file branch ke master
--  git branch -d staf = menghapus branch
+-  git branch -D staf = menghapus branch
 - git checkout "nama branch" = pindah dari anatar branch
 - Q = keluar
 
