@@ -1,2 +1,1 @@
-# mooafit-resolusi
-tentang git
+about git
