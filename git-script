@@ -1,10 +1,3 @@
-mooafit resolusi
-- konsisten belajar git
-- belajar github
-- membuat cv 3d
-- belajar js
--main emel
-
 git code
 - pwd = posisi kita
 - cd = masuk 
@@ -12,6 +5,7 @@ git code
 - git status = untuk melihat status file yg sudah di buat
 - git log = melihat history commit
 - git log -- nama file
+- ctrl + c = untuk keluar kalo eror di git
 
 part 6
 - graph = melihat cabang
