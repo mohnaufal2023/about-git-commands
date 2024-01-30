@@ -1,0 +1,18 @@
+jika ingin push folder local ke github pertama yaitu :
+1. create new repository
+2. copy link repo tersebut
+3. kemudia buka folder repo kita dengan git bash
+4. lakukan perintah (git init)
+5 lakukan add dan commit jika ada perubahan
+6 cek git status
+7 lakukan perintah (git remote add origin URL_Repository_GitHub)
+8 Lakukan push ke GitHub dengan perintah git push -u origin master atau git push -u main tergantung pada nama branch default di repository Anda.
+
+
+Github ke local 
+1. copy link repo
+2. buka git bash di mana kita ingin menyimpan folder clone tersebut
+3. masukkan perintah (git clone URL_github)
+4. setelah itu masukke folder tersebut (cd nama-folder)
+5. jika semua perubahan telah di commit next
+6. lakukan perintah (git push)
