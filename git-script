@@ -16,3 +16,5 @@ part 6
 - git checkout "nama branch" = pindah dari anatar branch
 - Q = keluar
 
+note
+untuk melihat apa nama file local yg tersave di github (git remote -v)
