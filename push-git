@@ -16,3 +16,6 @@ Github ke local
 4. setelah itu masukke folder tersebut (cd nama-folder)
 5. jika semua perubahan telah di commit next
 6. lakukan perintah (git push)
+
+untuk membatalkan git
+1.git remote rm origin
