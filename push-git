@@ -17,5 +17,10 @@ Github ke local
 5. jika semua perubahan telah di commit next
 6. lakukan perintah (git push)
 
+Git push ke github ketika tidak bisa
+1. lakukan perintah (git pull origin master)
+2. git push origin master
+3. nanti vscode akan terbuka dan terminal tidak bisa keluar, keluar accept pesan yg ada di vscode
+
 untuk membatalkan git
 1.git remote rm origin
