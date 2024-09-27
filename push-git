@@ -7,6 +7,8 @@ jika ingin push folder local ke github pertama yaitu :
 6 cek git status
 7 lakukan perintah (git remote add origin URL_Repository_GitHub)
 8 Lakukan push ke GitHub dengan perintah git push -u origin master atau git push -u main tergantung pada nama branch default di repository Anda.
+9.memutus remote repo orang (git remote remove origin)
+
 
 
 Github ke local 
