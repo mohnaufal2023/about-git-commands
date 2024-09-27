@@ -26,3 +26,7 @@ Git push ke github ketika tidak bisa
 
 untuk membatalkan git
 1.git remote rm origin
+
+untuk eror push
+git pull --rebase origin main
+git push origin main
