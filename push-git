@@ -30,3 +30,6 @@ untuk membatalkan git
 untuk eror push
 git pull --rebase origin main
 git push origin main
+
+ketika gk protocol not found di push(git remote set-url origin https://github.com/username/repository.git
+)
